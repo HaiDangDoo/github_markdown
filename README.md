@@ -67,6 +67,7 @@ git checkout -b new-branch  # Tạo và chuyển sang nhánh mới
 git merge branch-name       # Gộp nhánh vào nhánh hiện tại
 git branch -d branch-name   # Xóa nhánh local
 ```
+Sau khi merge xong chưa hiển thị liền trên github, chúng ta cần push lên với tư cách branch hiện tại.
 ---
 # Phần 2: Ngôn ngữ Markdown
 
